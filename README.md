@@ -64,8 +64,8 @@ This project shows how data can be transformed into actionable insights using SQ
 
 📬 Contact
 
-📧 priti.tiadi@example.com  
-🔗 [LinkedIn Profile](linkedin.com/in/priti-tiadi) 
+📧 prititiadi@example.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/priti-tiadi/) 
 
 
 
