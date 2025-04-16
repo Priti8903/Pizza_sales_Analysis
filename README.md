@@ -5,9 +5,10 @@
 Welcome! I'm Priti Tiadi, and this project demonstrates how SQL can be used to analyze real-world business data — in this case, pizza sales from a fictional Pizza Hut dataset.
 
  The analysis was performed using "SQL queries" on multiple related tables including:
-''' sql
+ 
+``` sql
 select * from customers
-'''
+```
 
 - "pizzas"
 - "pizza_types"
