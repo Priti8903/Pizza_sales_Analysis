@@ -6,9 +6,7 @@ Welcome! I'm Priti Tiadi, and this project demonstrates how SQL can be used to a
 
  The analysis was performed using "SQL queries" on multiple related tables including:
  
-``` sql
-select * from customers
-```
+
 
 - "pizzas"
 - "pizza_types"
