@@ -35,10 +35,15 @@ This project provides insights that can help boost sales, improve customer exper
 - ⏰ Distribution of orders by hour of the day  
 - 🍕 Category-wise distribution of pizzas  
 - 💸 Top 3 pizzas by revenue  
-- 📈 Revenue contribution percentage by pizza type  
+- 📈 Revenue contribution percentage by pizza type
+
+   
 
 
- 📌 Insights & Conclusions
+ [Pizza sales Analysis.pdf](https://github.com/user-attachments/files/24634174/Pizza.sales.Analysis.pdf)
+
+
+📌 Insights & Conclusions
 
 1. Greek Pizza is the highest-priced item, likely due to premium ingredients.
 2. Large (L) pizzas are the most popular size — with over 18,500 orders.
